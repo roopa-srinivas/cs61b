@@ -1,0 +1,63 @@
+You must answer at least 4 questions, but the remaining ones are optional. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque61B:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I'm proud of how I implemented the resize method.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: I had unclear variable names that could be refined for future projects.
+
+Q: What did you learn by talking to your partner about writing ArrayDeque61B?
+
+A: I learned that the placing of updating the back and front indeces within each method (removeFirst and removeLast) matters.
+
+Q: What do you wish you would have known before writing ArrayDeque61B, if anything?
+
+A: I wish I would've known all the test cases necessary before attempting to submit to GradeScope so I wouldn't have to use a submission token to figure out what test cases I was missing.
+
+Q: If you wrote ArrayDeque61B again, what would you do differently, if anything?
+
+A:
+
+-----
+
+LinkedListDeque61B:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I felt proud of how I easily knew how to implement removeFirst and removeLast.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: Similar to ArrayDeque, I think the variable names were inelegant and could be improved for future projects.
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque61B?
+
+A: I learned that creating the iterator has basically the same procedure in LinkedListDeque as it does in ArrayDeque.
+
+Q: What do you wish you would have known before writing LinkedListDeque61B, if anything?
+
+A: I wish I would've known the barebones on how to implement the iterator functionality a bit better before I started.
+
+Q: If you wrote LinkedListDeque61B again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: 

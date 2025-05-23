@@ -1,0 +1,6 @@
+I ran the speedtest and i put in various string lengths (20, 50, 100) and also put in various # of strings (10, 20, 50).
+every time I ran it, I got the following results:
+        class ULLMap: 0.00 sec
+        class BSTMap: 0.00 sec
+        Java's Built-in TreeMap: 0.00 sec
+        Java's Built-in HashMap: 0.00 sec

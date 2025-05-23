@@ -1,0 +1,39 @@
+BucketsSpeedTest:
+    This program inserts random Strings of length L
+     into different types of maps as <String, Integer> pairs.
+
+    What would you like L to be?: 20
+
+    Enter # strings to insert into each map: 5
+    MyHashMap with ArrayList buckets: 0.04 sec
+    MyHashMap with LinkedList buckets: 0.00 sec
+    MyHashMap with HashSet buckets: 0.00 sec
+    MyHashMap with Stack buckets: 0.00 sec
+    MyHashMap with ArrayDeque buckets: 0.00 sec
+
+InsertInOrderSpeedTest:
+     This program inserts lexicographically increasing Stringsinto Maps as <String, Integer> pairs.
+
+    Enter # strings to insert into ULLMap: 10
+    ULLMap: 0.02 sec
+
+    Enter # strings to insert into MyHashMap: 10
+    MyHashMap: 0.00 sec
+
+    Enter # strings to insert into Java's HashMap: 40
+    Java's Built-in HashMap: 0.00 sec
+
+InsertRandomSpeedTest:
+    This program inserts random Strings of length L
+     into different types of maps as <String, Integer> pairs.
+
+    What would you like L to be?: 40
+
+    Enter # strings to insert into ULLMap: 60
+    ULLMap: 0.00 sec
+
+    Enter # strings to insert into your MyHashMap: 20
+    MyHashMap: 0.01 sec
+
+    Enter # strings to insert into Java's HashMap: 40
+    Java's Built-in HashMap: 0.00 sec
